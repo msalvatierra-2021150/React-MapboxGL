@@ -1,0 +1,14 @@
+.search-container {
+    background-color: white;
+    border-radius: 5px;
+    left: 20px;
+    padding: 5px;
+    position: fixed;
+    top: 20px;
+    width: 250px;
+    z-index: 999;
+}
+
+.pointer {
+    cursor: pointer;
+}
